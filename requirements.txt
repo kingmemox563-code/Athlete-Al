@@ -1,0 +1,15 @@
+streamlit
+pydantic
+langchain
+langchain-core
+langchain-openai
+langchain-google-genai
+langchain-community
+python-dotenv
+chromadb
+tiktoken
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+streamlit-option-menu
+fpdf
