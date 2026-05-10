@@ -6,5 +6,5 @@ echo ---------------------------------------------------
 echo.
 echo Uygulama baslatiliyor, lutfen bekleyin...
 echo.
-streamlit run app.py
+python -m streamlit run app.py
 pause

@@ -13,3 +13,5 @@ langchain-huggingface
 sentence-transformers
 streamlit-option-menu
 fpdf
+reportlab
+openai
